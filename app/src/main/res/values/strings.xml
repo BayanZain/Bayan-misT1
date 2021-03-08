@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bayan-midTerm21</string>
+    <string name="title1">You are in Activity 1</string>
+    <string name="title2">You are in Activity 2</string>
+    <string name="title3">You are in Activity 3</string>
+    <string name="name">Name</string>
+    <string name="birth">Birth date</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="rd1">Student</string>
+    <string name="rd2">Instructor</string>
+    <string name="G">Gender</string>
+    <string name="P">Position</string>
+    <string name="bttn">Done</string>
+
+    <string name="bttn1">Goto Act1</string>
+    <string name="bttn2">Goto Act2</string>
+    <string name="bttn3">Goto Act3</string>
+
+</resources>
